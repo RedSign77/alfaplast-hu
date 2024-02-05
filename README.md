@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Alfa-plast Hungary Kft.
+Simple page for the company
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--alfaplast-hu--redsign77.hlx.page/
+- Live: https://main-alfaplast-hu--redsign77.hlx.live/
 
 ## Installation
 
